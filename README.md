@@ -6,6 +6,7 @@ Leetcode Problem Solving
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Udhays07/Problem-Solving/tree/master/0084-largest-rectangle-in-histogram) |
+| [0118-pascals-triangle](https://github.com/Udhays07/Problem-Solving/tree/master/0118-pascals-triangle) |
 | [0134-gas-station](https://github.com/Udhays07/Problem-Solving/tree/master/0134-gas-station) |
 | [0817-design-hashmap](https://github.com/Udhays07/Problem-Solving/tree/master/0817-design-hashmap) |
 ## Stack
@@ -55,4 +56,8 @@ Leetcode Problem Solving
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/Udhays07/Problem-Solving/tree/master/0817-design-hashmap) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Udhays07/Problem-Solving/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
