@@ -1,6 +1,5 @@
 class Solution {
     public int canCompleteCircuit(int[] gas, int[] cost) {
-        int result = -1;
         int n = gas.length;
         int totalgas = 0, totalcost = 0, startindex = 0, currentgas = 0;
         Queue<Integer> q = new LinkedList<>();
