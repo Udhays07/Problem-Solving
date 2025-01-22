@@ -6,6 +6,7 @@ Leetcode Problem Solving
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Udhays07/Problem-Solving/tree/master/0084-largest-rectangle-in-histogram) |
+| [0134-gas-station](https://github.com/Udhays07/Problem-Solving/tree/master/0134-gas-station) |
 ## Stack
 |  |
 | ------- |
@@ -36,4 +37,8 @@ Leetcode Problem Solving
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Udhays07/Problem-Solving/tree/master/0225-implement-stack-using-queues) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/Udhays07/Problem-Solving/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
