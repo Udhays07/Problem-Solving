@@ -51,6 +51,7 @@ Leetcode Problem Solving
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Udhays07/Problem-Solving/tree/master/0206-reverse-linked-list) |
 | [0817-design-hashmap](https://github.com/Udhays07/Problem-Solving/tree/master/0817-design-hashmap) |
 ## Hash Function
 |  |
@@ -60,4 +61,8 @@ Leetcode Problem Solving
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Udhays07/Problem-Solving/tree/master/0118-pascals-triangle) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Udhays07/Problem-Solving/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
