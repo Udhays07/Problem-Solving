@@ -15,6 +15,7 @@ Leetcode Problem Solving
 | [0084-largest-rectangle-in-histogram](https://github.com/Udhays07/Problem-Solving/tree/master/0084-largest-rectangle-in-histogram) |
 | [0225-implement-stack-using-queues](https://github.com/Udhays07/Problem-Solving/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Udhays07/Problem-Solving/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/Udhays07/Problem-Solving/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -52,6 +53,7 @@ Leetcode Problem Solving
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Udhays07/Problem-Solving/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Udhays07/Problem-Solving/tree/master/0234-palindrome-linked-list) |
 | [0817-design-hashmap](https://github.com/Udhays07/Problem-Solving/tree/master/0817-design-hashmap) |
 ## Hash Function
 |  |
@@ -65,4 +67,9 @@ Leetcode Problem Solving
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Udhays07/Problem-Solving/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Udhays07/Problem-Solving/tree/master/0234-palindrome-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Udhays07/Problem-Solving/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
