@@ -5,6 +5,7 @@ Leetcode Problem Solving
 ## Array
 |  |
 | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Udhays07/Problem-Solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Udhays07/Problem-Solving/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/Udhays07/Problem-Solving/tree/master/0118-pascals-triangle) |
 | [0134-gas-station](https://github.com/Udhays07/Problem-Solving/tree/master/0134-gas-station) |
@@ -77,6 +78,7 @@ Leetcode Problem Solving
 ## Two Pointers
 |  |
 | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Udhays07/Problem-Solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0234-palindrome-linked-list](https://github.com/Udhays07/Problem-Solving/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Udhays07/Problem-Solving/tree/master/0908-middle-of-the-linked-list) |
 ## Math
