@@ -5,6 +5,7 @@ Leetcode Problem Solving
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Udhays07/Problem-Solving/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Udhays07/Problem-Solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Udhays07/Problem-Solving/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/Udhays07/Problem-Solving/tree/master/0118-pascals-triangle) |
@@ -90,6 +91,7 @@ Leetcode Problem Solving
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Udhays07/Problem-Solving/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0075-sort-colors](https://github.com/Udhays07/Problem-Solving/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Udhays07/Problem-Solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/Udhays07/Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Udhays07/Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
@@ -112,4 +114,8 @@ Leetcode Problem Solving
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Udhays07/Problem-Solving/tree/master/0023-merge-k-sorted-lists) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Udhays07/Problem-Solving/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
