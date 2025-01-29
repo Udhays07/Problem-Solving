@@ -23,6 +23,7 @@ Leetcode Problem Solving
 | [0225-implement-stack-using-queues](https://github.com/Udhays07/Problem-Solving/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Udhays07/Problem-Solving/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Udhays07/Problem-Solving/tree/master/0234-palindrome-linked-list) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Udhays07/Problem-Solving/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -147,6 +148,7 @@ Leetcode Problem Solving
 | [0199-binary-tree-right-side-view](https://github.com/Udhays07/Problem-Solving/tree/master/0199-binary-tree-right-side-view) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Udhays07/Problem-Solving/tree/master/0449-serialize-and-deserialize-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Udhays07/Problem-Solving/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Udhays07/Problem-Solving/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Udhays07/Problem-Solving/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Udhays07/Problem-Solving/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Udhays07/Problem-Solving/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -162,6 +164,7 @@ Leetcode Problem Solving
 | [0199-binary-tree-right-side-view](https://github.com/Udhays07/Problem-Solving/tree/master/0199-binary-tree-right-side-view) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Udhays07/Problem-Solving/tree/master/0449-serialize-and-deserialize-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Udhays07/Problem-Solving/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Udhays07/Problem-Solving/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Udhays07/Problem-Solving/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
