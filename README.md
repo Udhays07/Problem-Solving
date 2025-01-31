@@ -16,6 +16,7 @@ Leetcode Problem Solving
 | [0643-maximum-average-subarray-i](https://github.com/Udhays07/Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
 | [0817-design-hashmap](https://github.com/Udhays07/Problem-Solving/tree/master/0817-design-hashmap) |
 | [1603-running-sum-of-1d-array](https://github.com/Udhays07/Problem-Solving/tree/master/1603-running-sum-of-1d-array) |
+| [1635-number-of-good-pairs](https://github.com/Udhays07/Problem-Solving/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/Udhays07/Problem-Solving/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/Udhays07/Problem-Solving/tree/master/2048-build-array-from-permutation) |
 ## Stack
@@ -41,6 +42,7 @@ Leetcode Problem Solving
 | [0160-intersection-of-two-linked-lists](https://github.com/Udhays07/Problem-Solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0387-first-unique-character-in-a-string](https://github.com/Udhays07/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0817-design-hashmap](https://github.com/Udhays07/Problem-Solving/tree/master/0817-design-hashmap) |
+| [1635-number-of-good-pairs](https://github.com/Udhays07/Problem-Solving/tree/master/1635-number-of-good-pairs) |
 ## String
 |  |
 | ------- |
@@ -58,6 +60,7 @@ Leetcode Problem Solving
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Udhays07/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
+| [1635-number-of-good-pairs](https://github.com/Udhays07/Problem-Solving/tree/master/1635-number-of-good-pairs) |
 ## Design
 |  |
 | ------- |
@@ -122,6 +125,7 @@ Leetcode Problem Solving
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Udhays07/Problem-Solving/tree/master/0002-add-two-numbers) |
+| [1635-number-of-good-pairs](https://github.com/Udhays07/Problem-Solving/tree/master/1635-number-of-good-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
