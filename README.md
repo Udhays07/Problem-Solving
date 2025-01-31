@@ -15,6 +15,7 @@ Leetcode Problem Solving
 | [0485-max-consecutive-ones](https://github.com/Udhays07/Problem-Solving/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Udhays07/Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
 | [0817-design-hashmap](https://github.com/Udhays07/Problem-Solving/tree/master/0817-design-hashmap) |
+| [2048-build-array-from-permutation](https://github.com/Udhays07/Problem-Solving/tree/master/2048-build-array-from-permutation) |
 ## Stack
 |  |
 | ------- |
@@ -225,4 +226,8 @@ Leetcode Problem Solving
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Udhays07/Problem-Solving/tree/master/0164-maximum-gap) |
+## Simulation
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/Udhays07/Problem-Solving/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->
