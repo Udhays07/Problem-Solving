@@ -93,6 +93,7 @@ Leetcode Problem Solving
 | [0237-delete-node-in-a-linked-list](https://github.com/Udhays07/Problem-Solving/tree/master/0237-delete-node-in-a-linked-list) |
 | [0817-design-hashmap](https://github.com/Udhays07/Problem-Solving/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/Udhays07/Problem-Solving/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Udhays07/Problem-Solving/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Hash Function
 |  |
 | ------- |
@@ -128,6 +129,7 @@ Leetcode Problem Solving
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Udhays07/Problem-Solving/tree/master/0002-add-two-numbers) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Udhays07/Problem-Solving/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1635-number-of-good-pairs](https://github.com/Udhays07/Problem-Solving/tree/master/1635-number-of-good-pairs) |
 ## Divide and Conquer
 |  |
