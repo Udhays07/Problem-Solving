@@ -12,6 +12,7 @@ Leetcode Problem Solving
 | [0118-pascals-triangle](https://github.com/Udhays07/Problem-Solving/tree/master/0118-pascals-triangle) |
 | [0134-gas-station](https://github.com/Udhays07/Problem-Solving/tree/master/0134-gas-station) |
 | [0164-maximum-gap](https://github.com/Udhays07/Problem-Solving/tree/master/0164-maximum-gap) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Udhays07/Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Udhays07/Problem-Solving/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Udhays07/Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
 | [0817-design-hashmap](https://github.com/Udhays07/Problem-Solving/tree/master/0817-design-hashmap) |
@@ -42,6 +43,7 @@ Leetcode Problem Solving
 | [0142-linked-list-cycle-ii](https://github.com/Udhays07/Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Udhays07/Problem-Solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0387-first-unique-character-in-a-string](https://github.com/Udhays07/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Udhays07/Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0817-design-hashmap](https://github.com/Udhays07/Problem-Solving/tree/master/0817-design-hashmap) |
 | [1635-number-of-good-pairs](https://github.com/Udhays07/Problem-Solving/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Udhays07/Problem-Solving/tree/master/1960-check-if-the-sentence-is-pangram) |
