@@ -15,6 +15,7 @@ Leetcode Problem Solving
 | [0485-max-consecutive-ones](https://github.com/Udhays07/Problem-Solving/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Udhays07/Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
 | [0817-design-hashmap](https://github.com/Udhays07/Problem-Solving/tree/master/0817-design-hashmap) |
+| [1580-shuffle-the-array](https://github.com/Udhays07/Problem-Solving/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Udhays07/Problem-Solving/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Udhays07/Problem-Solving/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/Udhays07/Problem-Solving/tree/master/1791-richest-customer-wealth) |
