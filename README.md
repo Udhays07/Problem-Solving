@@ -19,6 +19,7 @@ Leetcode Problem Solving
 | [0643-maximum-average-subarray-i](https://github.com/Udhays07/Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
 | [0817-design-hashmap](https://github.com/Udhays07/Problem-Solving/tree/master/0817-design-hashmap) |
 | [0861-flipping-an-image](https://github.com/Udhays07/Problem-Solving/tree/master/0861-flipping-an-image) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/Udhays07/Problem-Solving/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Udhays07/Problem-Solving/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Udhays07/Problem-Solving/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Udhays07/Problem-Solving/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -147,6 +148,7 @@ Leetcode Problem Solving
 | ------- |
 | [0002-add-two-numbers](https://github.com/Udhays07/Problem-Solving/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Udhays07/Problem-Solving/tree/master/0048-rotate-image) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/Udhays07/Problem-Solving/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Udhays07/Problem-Solving/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1635-number-of-good-pairs](https://github.com/Udhays07/Problem-Solving/tree/master/1635-number-of-good-pairs) |
 ## Divide and Conquer
@@ -260,6 +262,7 @@ Leetcode Problem Solving
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/Udhays07/Problem-Solving/tree/master/0861-flipping-an-image) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/Udhays07/Problem-Solving/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Udhays07/Problem-Solving/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/Udhays07/Problem-Solving/tree/master/2048-build-array-from-permutation) |
 ## Prefix Sum
