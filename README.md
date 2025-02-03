@@ -5,6 +5,7 @@ Leetcode Problem Solving
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Udhays07/Problem-Solving/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/Udhays07/Problem-Solving/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Udhays07/Problem-Solving/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Udhays07/Problem-Solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -140,6 +141,7 @@ Leetcode Problem Solving
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Udhays07/Problem-Solving/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/Udhays07/Problem-Solving/tree/master/0048-rotate-image) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Udhays07/Problem-Solving/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1635-number-of-good-pairs](https://github.com/Udhays07/Problem-Solving/tree/master/1635-number-of-good-pairs) |
 ## Divide and Conquer
@@ -260,5 +262,6 @@ Leetcode Problem Solving
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Udhays07/Problem-Solving/tree/master/0048-rotate-image) |
 | [1791-richest-customer-wealth](https://github.com/Udhays07/Problem-Solving/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
