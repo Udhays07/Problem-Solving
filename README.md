@@ -5,6 +5,7 @@ Leetcode Problem Solving
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Udhays07/Problem-Solving/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Udhays07/Problem-Solving/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Udhays07/Problem-Solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Udhays07/Problem-Solving/tree/master/0084-largest-rectangle-in-histogram) |
@@ -82,6 +83,7 @@ Leetcode Problem Solving
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Udhays07/Problem-Solving/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Udhays07/Problem-Solving/tree/master/0134-gas-station) |
 ## Linked List
 |  |
@@ -109,6 +111,7 @@ Leetcode Problem Solving
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Udhays07/Problem-Solving/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Udhays07/Problem-Solving/tree/master/0118-pascals-triangle) |
 ## Recursion
 |  |
