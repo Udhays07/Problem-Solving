@@ -23,6 +23,7 @@ Leetcode Problem Solving
 | [1031-add-to-array-form-of-integer](https://github.com/Udhays07/Problem-Solving/tree/master/1031-add-to-array-form-of-integer) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Udhays07/Problem-Solving/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Udhays07/Problem-Solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Udhays07/Problem-Solving/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Udhays07/Problem-Solving/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Udhays07/Problem-Solving/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Udhays07/Problem-Solving/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -155,6 +156,7 @@ Leetcode Problem Solving
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Udhays07/Problem-Solving/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Udhays07/Problem-Solving/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Udhays07/Problem-Solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Udhays07/Problem-Solving/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/Udhays07/Problem-Solving/tree/master/1635-number-of-good-pairs) |
 ## Divide and Conquer
 |  |
