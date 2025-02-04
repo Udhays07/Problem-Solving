@@ -66,6 +66,7 @@ Leetcode Problem Solving
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Udhays07/Problem-Solving/tree/master/0043-multiply-strings) |
 | [0344-reverse-string](https://github.com/Udhays07/Problem-Solving/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Udhays07/Problem-Solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Udhays07/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
@@ -152,6 +153,7 @@ Leetcode Problem Solving
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Udhays07/Problem-Solving/tree/master/0002-add-two-numbers) |
+| [0043-multiply-strings](https://github.com/Udhays07/Problem-Solving/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Udhays07/Problem-Solving/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Udhays07/Problem-Solving/tree/master/0066-plus-one) |
 | [1031-add-to-array-form-of-integer](https://github.com/Udhays07/Problem-Solving/tree/master/1031-add-to-array-form-of-integer) |
@@ -270,6 +272,7 @@ Leetcode Problem Solving
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Udhays07/Problem-Solving/tree/master/0043-multiply-strings) |
 | [0861-flipping-an-image](https://github.com/Udhays07/Problem-Solving/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Udhays07/Problem-Solving/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Udhays07/Problem-Solving/tree/master/1378-cells-with-odd-values-in-a-matrix) |
