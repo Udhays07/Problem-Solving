@@ -7,6 +7,7 @@ Leetcode Problem Solving
 | ------- |
 | [0048-rotate-image](https://github.com/Udhays07/Problem-Solving/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/Udhays07/Problem-Solving/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/Udhays07/Problem-Solving/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Udhays07/Problem-Solving/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Udhays07/Problem-Solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Udhays07/Problem-Solving/tree/master/0084-largest-rectangle-in-histogram) |
@@ -152,6 +153,7 @@ Leetcode Problem Solving
 | ------- |
 | [0002-add-two-numbers](https://github.com/Udhays07/Problem-Solving/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Udhays07/Problem-Solving/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/Udhays07/Problem-Solving/tree/master/0066-plus-one) |
 | [1031-add-to-array-form-of-integer](https://github.com/Udhays07/Problem-Solving/tree/master/1031-add-to-array-form-of-integer) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Udhays07/Problem-Solving/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Udhays07/Problem-Solving/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
