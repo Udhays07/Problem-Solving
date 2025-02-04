@@ -14,6 +14,7 @@ Leetcode Problem Solving
 | [0088-merge-sorted-array](https://github.com/Udhays07/Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Udhays07/Problem-Solving/tree/master/0118-pascals-triangle) |
 | [0134-gas-station](https://github.com/Udhays07/Problem-Solving/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/Udhays07/Problem-Solving/tree/master/0136-single-number) |
 | [0164-maximum-gap](https://github.com/Udhays07/Problem-Solving/tree/master/0164-maximum-gap) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Udhays07/Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Udhays07/Problem-Solving/tree/master/0485-max-consecutive-ones) |
@@ -294,5 +295,6 @@ Leetcode Problem Solving
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Udhays07/Problem-Solving/tree/master/0136-single-number) |
 | [0861-flipping-an-image](https://github.com/Udhays07/Problem-Solving/tree/master/0861-flipping-an-image) |
 <!---LeetCode Topics End-->
