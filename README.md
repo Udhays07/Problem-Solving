@@ -121,6 +121,7 @@ Leetcode Problem Solving
 | [0817-design-hashmap](https://github.com/Udhays07/Problem-Solving/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/Udhays07/Problem-Solving/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Udhays07/Problem-Solving/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Udhays07/Problem-Solving/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Hash Function
 |  |
 | ------- |
@@ -157,6 +158,7 @@ Leetcode Problem Solving
 | [0345-reverse-vowels-of-a-string](https://github.com/Udhays07/Problem-Solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0861-flipping-an-image](https://github.com/Udhays07/Problem-Solving/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/Udhays07/Problem-Solving/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Udhays07/Problem-Solving/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
