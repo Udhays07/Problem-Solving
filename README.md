@@ -127,6 +127,7 @@ Leetcode Problem Solving
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Udhays07/Problem-Solving/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Udhays07/Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Udhays07/Problem-Solving/tree/master/0118-pascals-triangle) |
 ## Recursion
 |  |
@@ -159,6 +160,7 @@ Leetcode Problem Solving
 | [0043-multiply-strings](https://github.com/Udhays07/Problem-Solving/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Udhays07/Problem-Solving/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Udhays07/Problem-Solving/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Udhays07/Problem-Solving/tree/master/0070-climbing-stairs) |
 | [1031-add-to-array-form-of-integer](https://github.com/Udhays07/Problem-Solving/tree/master/1031-add-to-array-form-of-integer) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Udhays07/Problem-Solving/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Udhays07/Problem-Solving/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -302,4 +304,8 @@ Leetcode Problem Solving
 | ------- |
 | [0136-single-number](https://github.com/Udhays07/Problem-Solving/tree/master/0136-single-number) |
 | [0861-flipping-an-image](https://github.com/Udhays07/Problem-Solving/tree/master/0861-flipping-an-image) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Udhays07/Problem-Solving/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
