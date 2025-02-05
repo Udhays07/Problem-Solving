@@ -317,4 +317,8 @@ Leetcode Problem Solving
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Udhays07/Problem-Solving/tree/master/0070-climbing-stairs) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Udhays07/Problem-Solving/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
