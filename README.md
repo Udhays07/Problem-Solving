@@ -325,5 +325,6 @@ Leetcode Problem Solving
 | [1153-product-sales-analysis-i](https://github.com/Udhays07/Problem-Solving/tree/master/1153-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/Udhays07/Problem-Solving/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Udhays07/Problem-Solving/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Udhays07/Problem-Solving/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Udhays07/Problem-Solving/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
