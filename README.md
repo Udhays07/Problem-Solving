@@ -66,6 +66,7 @@ Leetcode Problem Solving
 | [0817-design-hashmap](https://github.com/Udhays07/Problem-Solving/tree/master/0817-design-hashmap) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Udhays07/Problem-Solving/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Udhays07/Problem-Solving/tree/master/1635-number-of-good-pairs) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Udhays07/Problem-Solving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Udhays07/Problem-Solving/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## String
 |  |
@@ -76,6 +77,7 @@ Leetcode Problem Solving
 | [0387-first-unique-character-in-a-string](https://github.com/Udhays07/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Udhays07/Problem-Solving/tree/master/0449-serialize-and-deserialize-bst) |
 | [1899-count-items-matching-a-rule](https://github.com/Udhays07/Problem-Solving/tree/master/1899-count-items-matching-a-rule) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Udhays07/Problem-Solving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Udhays07/Problem-Solving/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Queue
 |  |
@@ -89,6 +91,7 @@ Leetcode Problem Solving
 | [0387-first-unique-character-in-a-string](https://github.com/Udhays07/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Udhays07/Problem-Solving/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Udhays07/Problem-Solving/tree/master/1635-number-of-good-pairs) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Udhays07/Problem-Solving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Design
 |  |
 | ------- |
