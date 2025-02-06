@@ -169,6 +169,7 @@ Leetcode Problem Solving
 | [0043-multiply-strings](https://github.com/Udhays07/Problem-Solving/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Udhays07/Problem-Solving/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Udhays07/Problem-Solving/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Udhays07/Problem-Solving/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Udhays07/Problem-Solving/tree/master/0070-climbing-stairs) |
 | [1031-add-to-array-form-of-integer](https://github.com/Udhays07/Problem-Solving/tree/master/1031-add-to-array-form-of-integer) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Udhays07/Problem-Solving/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -266,6 +267,7 @@ Leetcode Problem Solving
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Udhays07/Problem-Solving/tree/master/0069-sqrtx) |
 | [0098-validate-binary-search-tree](https://github.com/Udhays07/Problem-Solving/tree/master/0098-validate-binary-search-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Udhays07/Problem-Solving/tree/master/0449-serialize-and-deserialize-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Udhays07/Problem-Solving/tree/master/0783-search-in-a-binary-search-tree) |
