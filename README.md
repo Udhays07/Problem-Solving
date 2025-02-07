@@ -9,6 +9,7 @@ Leetcode Problem Solving
 | [0054-spiral-matrix](https://github.com/Udhays07/Problem-Solving/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Udhays07/Problem-Solving/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Udhays07/Problem-Solving/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Udhays07/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Udhays07/Problem-Solving/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Udhays07/Problem-Solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Udhays07/Problem-Solving/tree/master/0084-largest-rectangle-in-histogram) |
@@ -59,6 +60,7 @@ Leetcode Problem Solving
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Udhays07/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Udhays07/Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Udhays07/Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Udhays07/Problem-Solving/tree/master/0160-intersection-of-two-linked-lists) |
@@ -307,6 +309,7 @@ Leetcode Problem Solving
 | ------- |
 | [0048-rotate-image](https://github.com/Udhays07/Problem-Solving/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Udhays07/Problem-Solving/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Udhays07/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/Udhays07/Problem-Solving/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/Udhays07/Problem-Solving/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Udhays07/Problem-Solving/tree/master/0898-transpose-matrix) |
