@@ -178,6 +178,7 @@ Leetcode Problem Solving
 | [0069-sqrtx](https://github.com/Udhays07/Problem-Solving/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Udhays07/Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/Udhays07/Problem-Solving/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/Udhays07/Problem-Solving/tree/master/0441-arranging-coins) |
 | [1031-add-to-array-form-of-integer](https://github.com/Udhays07/Problem-Solving/tree/master/1031-add-to-array-form-of-integer) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Udhays07/Problem-Solving/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Udhays07/Problem-Solving/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -280,6 +281,7 @@ Leetcode Problem Solving
 | [0278-first-bad-version](https://github.com/Udhays07/Problem-Solving/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/Udhays07/Problem-Solving/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Udhays07/Problem-Solving/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/Udhays07/Problem-Solving/tree/master/0441-arranging-coins) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Udhays07/Problem-Solving/tree/master/0449-serialize-and-deserialize-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Udhays07/Problem-Solving/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Udhays07/Problem-Solving/tree/master/0784-insert-into-a-binary-search-tree) |
