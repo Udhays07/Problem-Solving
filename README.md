@@ -273,6 +273,7 @@ Leetcode Problem Solving
 | ------- |
 | [0069-sqrtx](https://github.com/Udhays07/Problem-Solving/tree/master/0069-sqrtx) |
 | [0098-validate-binary-search-tree](https://github.com/Udhays07/Problem-Solving/tree/master/0098-validate-binary-search-tree) |
+| [0278-first-bad-version](https://github.com/Udhays07/Problem-Solving/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Udhays07/Problem-Solving/tree/master/0374-guess-number-higher-or-lower) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Udhays07/Problem-Solving/tree/master/0449-serialize-and-deserialize-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Udhays07/Problem-Solving/tree/master/0783-search-in-a-binary-search-tree) |
@@ -343,5 +344,6 @@ Leetcode Problem Solving
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/Udhays07/Problem-Solving/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Udhays07/Problem-Solving/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
