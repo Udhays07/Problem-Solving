@@ -24,6 +24,7 @@ Leetcode Problem Solving
 | [0485-max-consecutive-ones](https://github.com/Udhays07/Problem-Solving/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/Udhays07/Problem-Solving/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/Udhays07/Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Udhays07/Problem-Solving/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0817-design-hashmap](https://github.com/Udhays07/Problem-Solving/tree/master/0817-design-hashmap) |
 | [0861-flipping-an-image](https://github.com/Udhays07/Problem-Solving/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Udhays07/Problem-Solving/tree/master/0898-transpose-matrix) |
@@ -283,6 +284,7 @@ Leetcode Problem Solving
 | [0374-guess-number-higher-or-lower](https://github.com/Udhays07/Problem-Solving/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Udhays07/Problem-Solving/tree/master/0441-arranging-coins) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Udhays07/Problem-Solving/tree/master/0449-serialize-and-deserialize-bst) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Udhays07/Problem-Solving/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Udhays07/Problem-Solving/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Udhays07/Problem-Solving/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Udhays07/Problem-Solving/tree/master/0799-minimum-distance-between-bst-nodes) |
