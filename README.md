@@ -5,6 +5,7 @@ Leetcode Problem Solving
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Udhays07/Problem-Solving/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Udhays07/Problem-Solving/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Udhays07/Problem-Solving/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Udhays07/Problem-Solving/tree/master/0055-jump-game) |
@@ -277,6 +278,7 @@ Leetcode Problem Solving
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Udhays07/Problem-Solving/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Udhays07/Problem-Solving/tree/master/0069-sqrtx) |
 | [0098-validate-binary-search-tree](https://github.com/Udhays07/Problem-Solving/tree/master/0098-validate-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Udhays07/Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
