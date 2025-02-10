@@ -28,6 +28,7 @@ Leetcode Problem Solving
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Udhays07/Problem-Solving/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0817-design-hashmap](https://github.com/Udhays07/Problem-Solving/tree/master/0817-design-hashmap) |
 | [0861-flipping-an-image](https://github.com/Udhays07/Problem-Solving/tree/master/0861-flipping-an-image) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Udhays07/Problem-Solving/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/Udhays07/Problem-Solving/tree/master/0898-transpose-matrix) |
 | [1031-add-to-array-form-of-integer](https://github.com/Udhays07/Problem-Solving/tree/master/1031-add-to-array-form-of-integer) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Udhays07/Problem-Solving/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -291,6 +292,7 @@ Leetcode Problem Solving
 | [0783-search-in-a-binary-search-tree](https://github.com/Udhays07/Problem-Solving/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Udhays07/Problem-Solving/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Udhays07/Problem-Solving/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Udhays07/Problem-Solving/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1646-kth-missing-positive-number](https://github.com/Udhays07/Problem-Solving/tree/master/1646-kth-missing-positive-number) |
 ## Sliding Window
 |  |
