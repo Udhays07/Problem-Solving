@@ -21,6 +21,7 @@ Leetcode Problem Solving
 | [0118-pascals-triangle](https://github.com/Udhays07/Problem-Solving/tree/master/0118-pascals-triangle) |
 | [0134-gas-station](https://github.com/Udhays07/Problem-Solving/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Udhays07/Problem-Solving/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/Udhays07/Problem-Solving/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Udhays07/Problem-Solving/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Udhays07/Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/Udhays07/Problem-Solving/tree/master/0238-product-of-array-except-self) |
@@ -300,6 +301,7 @@ Leetcode Problem Solving
 | [0069-sqrtx](https://github.com/Udhays07/Problem-Solving/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Udhays07/Problem-Solving/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0098-validate-binary-search-tree](https://github.com/Udhays07/Problem-Solving/tree/master/0098-validate-binary-search-tree) |
+| [0162-find-peak-element](https://github.com/Udhays07/Problem-Solving/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Udhays07/Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/Udhays07/Problem-Solving/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Udhays07/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
