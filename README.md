@@ -48,6 +48,7 @@ Leetcode Problem Solving
 | [1635-number-of-good-pairs](https://github.com/Udhays07/Problem-Solving/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/Udhays07/Problem-Solving/tree/master/1646-kth-missing-positive-number) |
 | [1677-matrix-diagonal-sum](https://github.com/Udhays07/Problem-Solving/tree/master/1677-matrix-diagonal-sum) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Udhays07/Problem-Solving/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1791-richest-customer-wealth](https://github.com/Udhays07/Problem-Solving/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/Udhays07/Problem-Solving/tree/master/1833-find-the-highest-altitude) |
 | [1899-count-items-matching-a-rule](https://github.com/Udhays07/Problem-Solving/tree/master/1899-count-items-matching-a-rule) |
@@ -221,6 +222,7 @@ Leetcode Problem Solving
 | [0349-intersection-of-two-arrays](https://github.com/Udhays07/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Udhays07/Problem-Solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Udhays07/Problem-Solving/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Udhays07/Problem-Solving/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Tree
 |  |
 | ------- |
@@ -310,6 +312,7 @@ Leetcode Problem Solving
 | [1468-check-if-n-and-its-double-exist](https://github.com/Udhays07/Problem-Solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Udhays07/Problem-Solving/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/Udhays07/Problem-Solving/tree/master/1646-kth-missing-positive-number) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Udhays07/Problem-Solving/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Sliding Window
 |  |
 | ------- |
