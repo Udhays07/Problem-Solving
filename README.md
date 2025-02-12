@@ -37,6 +37,7 @@ Leetcode Problem Solving
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Udhays07/Problem-Solving/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Udhays07/Problem-Solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Udhays07/Problem-Solving/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Udhays07/Problem-Solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Udhays07/Problem-Solving/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Udhays07/Problem-Solving/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Udhays07/Problem-Solving/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -78,6 +79,7 @@ Leetcode Problem Solving
 | [0387-first-unique-character-in-a-string](https://github.com/Udhays07/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Udhays07/Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0817-design-hashmap](https://github.com/Udhays07/Problem-Solving/tree/master/0817-design-hashmap) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Udhays07/Problem-Solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Udhays07/Problem-Solving/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Udhays07/Problem-Solving/tree/master/1635-number-of-good-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Udhays07/Problem-Solving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -178,6 +180,7 @@ Leetcode Problem Solving
 | [0349-intersection-of-two-arrays](https://github.com/Udhays07/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0861-flipping-an-image](https://github.com/Udhays07/Problem-Solving/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/Udhays07/Problem-Solving/tree/master/0908-middle-of-the-linked-list) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Udhays07/Problem-Solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Udhays07/Problem-Solving/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
@@ -216,6 +219,7 @@ Leetcode Problem Solving
 | [0088-merge-sorted-array](https://github.com/Udhays07/Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/Udhays07/Problem-Solving/tree/master/0164-maximum-gap) |
 | [0349-intersection-of-two-arrays](https://github.com/Udhays07/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Udhays07/Problem-Solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Udhays07/Problem-Solving/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Tree
 |  |
@@ -303,6 +307,7 @@ Leetcode Problem Solving
 | [0784-insert-into-a-binary-search-tree](https://github.com/Udhays07/Problem-Solving/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Udhays07/Problem-Solving/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Udhays07/Problem-Solving/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Udhays07/Problem-Solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Udhays07/Problem-Solving/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/Udhays07/Problem-Solving/tree/master/1646-kth-missing-positive-number) |
 ## Sliding Window
