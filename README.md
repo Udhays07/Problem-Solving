@@ -96,6 +96,7 @@ Leetcode Problem Solving
 | [0345-reverse-vowels-of-a-string](https://github.com/Udhays07/Problem-Solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Udhays07/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Udhays07/Problem-Solving/tree/master/0449-serialize-and-deserialize-bst) |
+| [1205-defanging-an-ip-address](https://github.com/Udhays07/Problem-Solving/tree/master/1205-defanging-an-ip-address) |
 | [1899-count-items-matching-a-rule](https://github.com/Udhays07/Problem-Solving/tree/master/1899-count-items-matching-a-rule) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Udhays07/Problem-Solving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Udhays07/Problem-Solving/tree/master/1960-check-if-the-sentence-is-pangram) |
