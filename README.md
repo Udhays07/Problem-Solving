@@ -170,6 +170,7 @@ Leetcode Problem Solving
 | [0143-reorder-list](https://github.com/Udhays07/Problem-Solving/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Udhays07/Problem-Solving/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Udhays07/Problem-Solving/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Udhays07/Problem-Solving/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Udhays07/Problem-Solving/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
@@ -201,6 +202,7 @@ Leetcode Problem Solving
 | [0066-plus-one](https://github.com/Udhays07/Problem-Solving/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Udhays07/Problem-Solving/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Udhays07/Problem-Solving/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/Udhays07/Problem-Solving/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/Udhays07/Problem-Solving/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Udhays07/Problem-Solving/tree/master/0441-arranging-coins) |
 | [1031-add-to-array-form-of-integer](https://github.com/Udhays07/Problem-Solving/tree/master/1031-add-to-array-form-of-integer) |
@@ -374,6 +376,7 @@ Leetcode Problem Solving
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Udhays07/Problem-Solving/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Udhays07/Problem-Solving/tree/master/0231-power-of-two) |
 | [0645-set-mismatch](https://github.com/Udhays07/Problem-Solving/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/Udhays07/Problem-Solving/tree/master/0861-flipping-an-image) |
 ## Memoization
