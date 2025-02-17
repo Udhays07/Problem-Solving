@@ -111,6 +111,7 @@ Leetcode Problem Solving
 | [0225-implement-stack-using-queues](https://github.com/Udhays07/Problem-Solving/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Udhays07/Problem-Solving/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Udhays07/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
+| [0969-number-of-recent-calls](https://github.com/Udhays07/Problem-Solving/tree/master/0969-number-of-recent-calls) |
 ## Counting
 |  |
 | ------- |
@@ -125,6 +126,7 @@ Leetcode Problem Solving
 | [0232-implement-queue-using-stacks](https://github.com/Udhays07/Problem-Solving/tree/master/0232-implement-queue-using-stacks) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Udhays07/Problem-Solving/tree/master/0449-serialize-and-deserialize-bst) |
 | [0817-design-hashmap](https://github.com/Udhays07/Problem-Solving/tree/master/0817-design-hashmap) |
+| [0969-number-of-recent-calls](https://github.com/Udhays07/Problem-Solving/tree/master/0969-number-of-recent-calls) |
 ## Greedy
 |  |
 | ------- |
@@ -399,4 +401,8 @@ Leetcode Problem Solving
 | ------- |
 | [0278-first-bad-version](https://github.com/Udhays07/Problem-Solving/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Udhays07/Problem-Solving/tree/master/0374-guess-number-higher-or-lower) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/Udhays07/Problem-Solving/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
