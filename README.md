@@ -26,6 +26,7 @@ Leetcode Problem Solving
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Udhays07/Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/Udhays07/Problem-Solving/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/Udhays07/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/Udhays07/Problem-Solving/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Udhays07/Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Udhays07/Problem-Solving/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Udhays07/Problem-Solving/tree/master/0540-single-element-in-a-sorted-array) |
@@ -233,6 +234,7 @@ Leetcode Problem Solving
 | [0088-merge-sorted-array](https://github.com/Udhays07/Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/Udhays07/Problem-Solving/tree/master/0164-maximum-gap) |
 | [0349-intersection-of-two-arrays](https://github.com/Udhays07/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/Udhays07/Problem-Solving/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/Udhays07/Problem-Solving/tree/master/0645-set-mismatch) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Udhays07/Problem-Solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Udhays07/Problem-Solving/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
