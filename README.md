@@ -59,6 +59,7 @@ Leetcode Problem Solving
 | [1833-find-the-highest-altitude](https://github.com/Udhays07/Problem-Solving/tree/master/1833-find-the-highest-altitude) |
 | [1899-count-items-matching-a-rule](https://github.com/Udhays07/Problem-Solving/tree/master/1899-count-items-matching-a-rule) |
 | [2048-build-array-from-permutation](https://github.com/Udhays07/Problem-Solving/tree/master/2048-build-array-from-permutation) |
+| [2589-maximum-value-of-a-string-in-an-array](https://github.com/Udhays07/Problem-Solving/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 ## Stack
 |  |
 | ------- |
@@ -106,6 +107,7 @@ Leetcode Problem Solving
 | [1899-count-items-matching-a-rule](https://github.com/Udhays07/Problem-Solving/tree/master/1899-count-items-matching-a-rule) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Udhays07/Problem-Solving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Udhays07/Problem-Solving/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2589-maximum-value-of-a-string-in-an-array](https://github.com/Udhays07/Problem-Solving/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 ## Queue
 |  |
 | ------- |
