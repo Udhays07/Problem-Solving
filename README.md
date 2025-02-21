@@ -25,6 +25,7 @@ Leetcode Problem Solving
 | [0164-maximum-gap](https://github.com/Udhays07/Problem-Solving/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Udhays07/Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/Udhays07/Problem-Solving/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/Udhays07/Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Udhays07/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Udhays07/Problem-Solving/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Udhays07/Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -198,6 +199,7 @@ Leetcode Problem Solving
 | [0160-intersection-of-two-linked-lists](https://github.com/Udhays07/Problem-Solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Udhays07/Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Udhays07/Problem-Solving/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/Udhays07/Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Udhays07/Problem-Solving/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Udhays07/Problem-Solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Udhays07/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
@@ -328,6 +330,7 @@ Leetcode Problem Solving
 | [0162-find-peak-element](https://github.com/Udhays07/Problem-Solving/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Udhays07/Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/Udhays07/Problem-Solving/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/Udhays07/Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Udhays07/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Udhays07/Problem-Solving/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Udhays07/Problem-Solving/tree/master/0374-guess-number-higher-or-lower) |
@@ -392,6 +395,7 @@ Leetcode Problem Solving
 | ------- |
 | [0136-single-number](https://github.com/Udhays07/Problem-Solving/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Udhays07/Problem-Solving/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/Udhays07/Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Udhays07/Problem-Solving/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/Udhays07/Problem-Solving/tree/master/0861-flipping-an-image) |
 ## Memoization
