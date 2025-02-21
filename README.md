@@ -104,6 +104,7 @@ Leetcode Problem Solving
 | [0742-to-lower-case](https://github.com/Udhays07/Problem-Solving/tree/master/0742-to-lower-case) |
 | [1205-defanging-an-ip-address](https://github.com/Udhays07/Problem-Solving/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/Udhays07/Problem-Solving/tree/master/1651-shuffle-string) |
+| [1797-goal-parser-interpretation](https://github.com/Udhays07/Problem-Solving/tree/master/1797-goal-parser-interpretation) |
 | [1899-count-items-matching-a-rule](https://github.com/Udhays07/Problem-Solving/tree/master/1899-count-items-matching-a-rule) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Udhays07/Problem-Solving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Udhays07/Problem-Solving/tree/master/1960-check-if-the-sentence-is-pangram) |
