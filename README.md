@@ -39,6 +39,7 @@ Leetcode Problem Solving
 | [0861-flipping-an-image](https://github.com/Udhays07/Problem-Solving/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Udhays07/Problem-Solving/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/Udhays07/Problem-Solving/tree/master/0898-transpose-matrix) |
+| [0941-sort-array-by-parity](https://github.com/Udhays07/Problem-Solving/tree/master/0941-sort-array-by-parity) |
 | [1031-add-to-array-form-of-integer](https://github.com/Udhays07/Problem-Solving/tree/master/1031-add-to-array-form-of-integer) |
 | [1319-unique-number-of-occurrences](https://github.com/Udhays07/Problem-Solving/tree/master/1319-unique-number-of-occurrences) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Udhays07/Problem-Solving/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -211,6 +212,7 @@ Leetcode Problem Solving
 | [0557-reverse-words-in-a-string-iii](https://github.com/Udhays07/Problem-Solving/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0861-flipping-an-image](https://github.com/Udhays07/Problem-Solving/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/Udhays07/Problem-Solving/tree/master/0908-middle-of-the-linked-list) |
+| [0941-sort-array-by-parity](https://github.com/Udhays07/Problem-Solving/tree/master/0941-sort-array-by-parity) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Udhays07/Problem-Solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Udhays07/Problem-Solving/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Math
@@ -254,6 +256,7 @@ Leetcode Problem Solving
 | [0349-intersection-of-two-arrays](https://github.com/Udhays07/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Udhays07/Problem-Solving/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/Udhays07/Problem-Solving/tree/master/0645-set-mismatch) |
+| [0941-sort-array-by-parity](https://github.com/Udhays07/Problem-Solving/tree/master/0941-sort-array-by-parity) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Udhays07/Problem-Solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Udhays07/Problem-Solving/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Udhays07/Problem-Solving/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
