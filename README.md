@@ -42,6 +42,7 @@ Leetcode Problem Solving
 | [0941-sort-array-by-parity](https://github.com/Udhays07/Problem-Solving/tree/master/0941-sort-array-by-parity) |
 | [1031-add-to-array-form-of-integer](https://github.com/Udhays07/Problem-Solving/tree/master/1031-add-to-array-form-of-integer) |
 | [1319-unique-number-of-occurrences](https://github.com/Udhays07/Problem-Solving/tree/master/1319-unique-number-of-occurrences) |
+| [1372-check-if-it-is-a-good-array](https://github.com/Udhays07/Problem-Solving/tree/master/1372-check-if-it-is-a-good-array) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Udhays07/Problem-Solving/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Udhays07/Problem-Solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Udhays07/Problem-Solving/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -228,6 +229,7 @@ Leetcode Problem Solving
 | [0367-valid-perfect-square](https://github.com/Udhays07/Problem-Solving/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Udhays07/Problem-Solving/tree/master/0441-arranging-coins) |
 | [1031-add-to-array-form-of-integer](https://github.com/Udhays07/Problem-Solving/tree/master/1031-add-to-array-form-of-integer) |
+| [1372-check-if-it-is-a-good-array](https://github.com/Udhays07/Problem-Solving/tree/master/1372-check-if-it-is-a-good-array) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Udhays07/Problem-Solving/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Udhays07/Problem-Solving/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Udhays07/Problem-Solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -432,4 +434,8 @@ Leetcode Problem Solving
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/Udhays07/Problem-Solving/tree/master/0969-number-of-recent-calls) |
+## Number Theory
+|  |
+| ------- |
+| [1372-check-if-it-is-a-good-array](https://github.com/Udhays07/Problem-Solving/tree/master/1372-check-if-it-is-a-good-array) |
 <!---LeetCode Topics End-->
