@@ -5,6 +5,7 @@ Leetcode Problem Solving
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Udhays07/Problem-Solving/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Udhays07/Problem-Solving/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/Udhays07/Problem-Solving/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Udhays07/Problem-Solving/tree/master/0048-rotate-image) |
@@ -195,6 +196,7 @@ Leetcode Problem Solving
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Udhays07/Problem-Solving/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Udhays07/Problem-Solving/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Udhays07/Problem-Solving/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/Udhays07/Problem-Solving/tree/master/0075-sort-colors) |
@@ -250,6 +252,7 @@ Leetcode Problem Solving
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Udhays07/Problem-Solving/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Udhays07/Problem-Solving/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Udhays07/Problem-Solving/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Udhays07/Problem-Solving/tree/master/0088-merge-sorted-array) |
