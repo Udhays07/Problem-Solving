@@ -195,6 +195,7 @@ Leetcode Problem Solving
 | [0206-reverse-linked-list](https://github.com/Udhays07/Problem-Solving/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Udhays07/Problem-Solving/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Udhays07/Problem-Solving/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/Udhays07/Problem-Solving/tree/master/0342-power-of-four) |
 ## Two Pointers
 |  |
 | ------- |
@@ -230,6 +231,7 @@ Leetcode Problem Solving
 | [0069-sqrtx](https://github.com/Udhays07/Problem-Solving/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Udhays07/Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Udhays07/Problem-Solving/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Udhays07/Problem-Solving/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Udhays07/Problem-Solving/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Udhays07/Problem-Solving/tree/master/0441-arranging-coins) |
 | [1031-add-to-array-form-of-integer](https://github.com/Udhays07/Problem-Solving/tree/master/1031-add-to-array-form-of-integer) |
@@ -414,6 +416,7 @@ Leetcode Problem Solving
 | [0136-single-number](https://github.com/Udhays07/Problem-Solving/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Udhays07/Problem-Solving/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Udhays07/Problem-Solving/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/Udhays07/Problem-Solving/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/Udhays07/Problem-Solving/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/Udhays07/Problem-Solving/tree/master/0861-flipping-an-image) |
 ## Memoization
