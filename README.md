@@ -68,6 +68,7 @@ Leetcode Problem Solving
 | [2048-build-array-from-permutation](https://github.com/Udhays07/Problem-Solving/tree/master/2048-build-array-from-permutation) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Udhays07/Problem-Solving/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/Udhays07/Problem-Solving/tree/master/2589-maximum-value-of-a-string-in-an-array) |
+| [3582-find-indices-of-stable-mountains](https://github.com/Udhays07/Problem-Solving/tree/master/3582-find-indices-of-stable-mountains) |
 ## Stack
 |  |
 | ------- |
