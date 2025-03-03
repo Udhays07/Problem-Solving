@@ -92,6 +92,7 @@ Leetcode Problem Solving
 | [0141-linked-list-cycle](https://github.com/Udhays07/Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Udhays07/Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Udhays07/Problem-Solving/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Udhays07/Problem-Solving/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Udhays07/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Udhays07/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Udhays07/Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -214,6 +215,7 @@ Leetcode Problem Solving
 | [0143-reorder-list](https://github.com/Udhays07/Problem-Solving/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Udhays07/Problem-Solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Udhays07/Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Udhays07/Problem-Solving/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Udhays07/Problem-Solving/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Udhays07/Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Udhays07/Problem-Solving/tree/master/0344-reverse-string) |
@@ -234,6 +236,7 @@ Leetcode Problem Solving
 | [0066-plus-one](https://github.com/Udhays07/Problem-Solving/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Udhays07/Problem-Solving/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Udhays07/Problem-Solving/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Udhays07/Problem-Solving/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Udhays07/Problem-Solving/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Udhays07/Problem-Solving/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Udhays07/Problem-Solving/tree/master/0367-valid-perfect-square) |
