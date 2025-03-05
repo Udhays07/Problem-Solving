@@ -36,6 +36,7 @@ Leetcode Problem Solving
 | [0485-max-consecutive-ones](https://github.com/Udhays07/Problem-Solving/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Udhays07/Problem-Solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/Udhays07/Problem-Solving/tree/master/0566-reshape-the-matrix) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Udhays07/Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Udhays07/Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Udhays07/Problem-Solving/tree/master/0645-set-mismatch) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Udhays07/Problem-Solving/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -245,6 +246,7 @@ Leetcode Problem Solving
 | [0342-power-of-four](https://github.com/Udhays07/Problem-Solving/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Udhays07/Problem-Solving/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Udhays07/Problem-Solving/tree/master/0441-arranging-coins) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Udhays07/Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [1031-add-to-array-form-of-integer](https://github.com/Udhays07/Problem-Solving/tree/master/1031-add-to-array-form-of-integer) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Udhays07/Problem-Solving/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1372-check-if-it-is-a-good-array](https://github.com/Udhays07/Problem-Solving/tree/master/1372-check-if-it-is-a-good-array) |
@@ -278,6 +280,7 @@ Leetcode Problem Solving
 | [0349-intersection-of-two-arrays](https://github.com/Udhays07/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Udhays07/Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Udhays07/Problem-Solving/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Udhays07/Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Udhays07/Problem-Solving/tree/master/0645-set-mismatch) |
 | [0941-sort-array-by-parity](https://github.com/Udhays07/Problem-Solving/tree/master/0941-sort-array-by-parity) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Udhays07/Problem-Solving/tree/master/1468-check-if-n-and-its-double-exist) |
