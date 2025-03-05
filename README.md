@@ -5,6 +5,7 @@ Leetcode Problem Solving
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Udhays07/Problem-Solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0016-3sum-closest](https://github.com/Udhays07/Problem-Solving/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Udhays07/Problem-Solving/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/Udhays07/Problem-Solving/tree/master/0035-search-insert-position) |
@@ -255,6 +256,7 @@ Leetcode Problem Solving
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Udhays07/Problem-Solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Udhays07/Problem-Solving/tree/master/0023-merge-k-sorted-lists) |
 ## Heap (Priority Queue)
 |  |
@@ -353,6 +355,7 @@ Leetcode Problem Solving
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Udhays07/Problem-Solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Udhays07/Problem-Solving/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Udhays07/Problem-Solving/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Udhays07/Problem-Solving/tree/master/0081-search-in-rotated-sorted-array-ii) |
