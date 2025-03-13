@@ -32,6 +32,7 @@ Leetcode Problem Solving
 | [0349-intersection-of-two-arrays](https://github.com/Udhays07/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Udhays07/Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Udhays07/Problem-Solving/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Udhays07/Problem-Solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Udhays07/Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Udhays07/Problem-Solving/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Udhays07/Problem-Solving/tree/master/0540-single-element-in-a-sorted-array) |
@@ -107,6 +108,7 @@ Leetcode Problem Solving
 | [0349-intersection-of-two-arrays](https://github.com/Udhays07/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Udhays07/Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Udhays07/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Udhays07/Problem-Solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Udhays07/Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Udhays07/Problem-Solving/tree/master/0645-set-mismatch) |
 | [0817-design-hashmap](https://github.com/Udhays07/Problem-Solving/tree/master/0817-design-hashmap) |
