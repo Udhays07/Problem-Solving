@@ -95,6 +95,7 @@ Leetcode Problem Solving
 | [0232-implement-queue-using-stacks](https://github.com/Udhays07/Problem-Solving/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Udhays07/Problem-Solving/tree/master/0234-palindrome-linked-list) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Udhays07/Problem-Solving/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [3447-clear-digits](https://github.com/Udhays07/Problem-Solving/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -144,6 +145,7 @@ Leetcode Problem Solving
 | [1970-sorting-the-sentence](https://github.com/Udhays07/Problem-Solving/tree/master/1970-sorting-the-sentence) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Udhays07/Problem-Solving/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/Udhays07/Problem-Solving/tree/master/2589-maximum-value-of-a-string-in-an-array) |
+| [3447-clear-digits](https://github.com/Udhays07/Problem-Solving/tree/master/3447-clear-digits) |
 ## Queue
 |  |
 | ------- |
@@ -440,6 +442,7 @@ Leetcode Problem Solving
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Udhays07/Problem-Solving/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Udhays07/Problem-Solving/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/Udhays07/Problem-Solving/tree/master/2048-build-array-from-permutation) |
+| [3447-clear-digits](https://github.com/Udhays07/Problem-Solving/tree/master/3447-clear-digits) |
 ## Prefix Sum
 |  |
 | ------- |
