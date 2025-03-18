@@ -139,6 +139,7 @@ Leetcode Problem Solving
 | [0742-to-lower-case](https://github.com/Udhays07/Problem-Solving/tree/master/0742-to-lower-case) |
 | [1205-defanging-an-ip-address](https://github.com/Udhays07/Problem-Solving/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/Udhays07/Problem-Solving/tree/master/1651-shuffle-string) |
+| [1764-maximum-repeating-substring](https://github.com/Udhays07/Problem-Solving/tree/master/1764-maximum-repeating-substring) |
 | [1797-goal-parser-interpretation](https://github.com/Udhays07/Problem-Solving/tree/master/1797-goal-parser-interpretation) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Udhays07/Problem-Solving/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1899-count-items-matching-a-rule](https://github.com/Udhays07/Problem-Solving/tree/master/1899-count-items-matching-a-rule) |
@@ -211,6 +212,7 @@ Leetcode Problem Solving
 | [0055-jump-game](https://github.com/Udhays07/Problem-Solving/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Udhays07/Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Udhays07/Problem-Solving/tree/master/0118-pascals-triangle) |
+| [1764-maximum-repeating-substring](https://github.com/Udhays07/Problem-Solving/tree/master/1764-maximum-repeating-substring) |
 ## Recursion
 |  |
 | ------- |
@@ -513,4 +515,8 @@ Leetcode Problem Solving
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Udhays07/Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
+## String Matching
+|  |
+| ------- |
+| [1764-maximum-repeating-substring](https://github.com/Udhays07/Problem-Solving/tree/master/1764-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
