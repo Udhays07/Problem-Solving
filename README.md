@@ -47,6 +47,7 @@ Leetcode Problem Solving
 | [0861-flipping-an-image](https://github.com/Udhays07/Problem-Solving/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Udhays07/Problem-Solving/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/Udhays07/Problem-Solving/tree/master/0898-transpose-matrix) |
+| [0924-fair-candy-swap](https://github.com/Udhays07/Problem-Solving/tree/master/0924-fair-candy-swap) |
 | [0941-sort-array-by-parity](https://github.com/Udhays07/Problem-Solving/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Udhays07/Problem-Solving/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Udhays07/Problem-Solving/tree/master/1019-squares-of-a-sorted-array) |
@@ -117,6 +118,7 @@ Leetcode Problem Solving
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Udhays07/Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Udhays07/Problem-Solving/tree/master/0645-set-mismatch) |
 | [0817-design-hashmap](https://github.com/Udhays07/Problem-Solving/tree/master/0817-design-hashmap) |
+| [0924-fair-candy-swap](https://github.com/Udhays07/Problem-Solving/tree/master/0924-fair-candy-swap) |
 | [1217-relative-sort-array](https://github.com/Udhays07/Problem-Solving/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Udhays07/Problem-Solving/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Udhays07/Problem-Solving/tree/master/1319-unique-number-of-occurrences) |
@@ -320,6 +322,7 @@ Leetcode Problem Solving
 | [0414-third-maximum-number](https://github.com/Udhays07/Problem-Solving/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Udhays07/Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Udhays07/Problem-Solving/tree/master/0645-set-mismatch) |
+| [0924-fair-candy-swap](https://github.com/Udhays07/Problem-Solving/tree/master/0924-fair-candy-swap) |
 | [0941-sort-array-by-parity](https://github.com/Udhays07/Problem-Solving/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Udhays07/Problem-Solving/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Udhays07/Problem-Solving/tree/master/1019-squares-of-a-sorted-array) |
@@ -426,6 +429,7 @@ Leetcode Problem Solving
 | [0784-insert-into-a-binary-search-tree](https://github.com/Udhays07/Problem-Solving/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Udhays07/Problem-Solving/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Udhays07/Problem-Solving/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0924-fair-candy-swap](https://github.com/Udhays07/Problem-Solving/tree/master/0924-fair-candy-swap) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Udhays07/Problem-Solving/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Udhays07/Problem-Solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Udhays07/Problem-Solving/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
