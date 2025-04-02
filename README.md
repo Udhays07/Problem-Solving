@@ -279,6 +279,7 @@ Leetcode Problem Solving
 | [0367-valid-perfect-square](https://github.com/Udhays07/Problem-Solving/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Udhays07/Problem-Solving/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Udhays07/Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
+| [0755-reach-a-number](https://github.com/Udhays07/Problem-Solving/tree/master/0755-reach-a-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/Udhays07/Problem-Solving/tree/master/1031-add-to-array-form-of-integer) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Udhays07/Problem-Solving/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1372-check-if-it-is-a-good-array](https://github.com/Udhays07/Problem-Solving/tree/master/1372-check-if-it-is-a-good-array) |
@@ -425,6 +426,7 @@ Leetcode Problem Solving
 | [0449-serialize-and-deserialize-bst](https://github.com/Udhays07/Problem-Solving/tree/master/0449-serialize-and-deserialize-bst) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Udhays07/Problem-Solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Udhays07/Problem-Solving/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0755-reach-a-number](https://github.com/Udhays07/Problem-Solving/tree/master/0755-reach-a-number) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Udhays07/Problem-Solving/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Udhays07/Problem-Solving/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Udhays07/Problem-Solving/tree/master/0799-minimum-distance-between-bst-nodes) |
