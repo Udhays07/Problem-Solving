@@ -52,6 +52,7 @@ Leetcode Problem Solving
 | [0958-sort-array-by-parity-ii](https://github.com/Udhays07/Problem-Solving/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Udhays07/Problem-Solving/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/Udhays07/Problem-Solving/tree/master/1031-add-to-array-form-of-integer) |
+| [1044-find-common-characters](https://github.com/Udhays07/Problem-Solving/tree/master/1044-find-common-characters) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Udhays07/Problem-Solving/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1137-height-checker](https://github.com/Udhays07/Problem-Solving/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Udhays07/Problem-Solving/tree/master/1217-relative-sort-array) |
@@ -119,6 +120,7 @@ Leetcode Problem Solving
 | [0645-set-mismatch](https://github.com/Udhays07/Problem-Solving/tree/master/0645-set-mismatch) |
 | [0817-design-hashmap](https://github.com/Udhays07/Problem-Solving/tree/master/0817-design-hashmap) |
 | [0924-fair-candy-swap](https://github.com/Udhays07/Problem-Solving/tree/master/0924-fair-candy-swap) |
+| [1044-find-common-characters](https://github.com/Udhays07/Problem-Solving/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/Udhays07/Problem-Solving/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Udhays07/Problem-Solving/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Udhays07/Problem-Solving/tree/master/1319-unique-number-of-occurrences) |
@@ -140,6 +142,7 @@ Leetcode Problem Solving
 | [0557-reverse-words-in-a-string-iii](https://github.com/Udhays07/Problem-Solving/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/Udhays07/Problem-Solving/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/Udhays07/Problem-Solving/tree/master/0742-to-lower-case) |
+| [1044-find-common-characters](https://github.com/Udhays07/Problem-Solving/tree/master/1044-find-common-characters) |
 | [1205-defanging-an-ip-address](https://github.com/Udhays07/Problem-Solving/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/Udhays07/Problem-Solving/tree/master/1651-shuffle-string) |
 | [1764-maximum-repeating-substring](https://github.com/Udhays07/Problem-Solving/tree/master/1764-maximum-repeating-substring) |
