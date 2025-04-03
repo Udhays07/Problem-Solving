@@ -56,6 +56,7 @@ Leetcode Problem Solving
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Udhays07/Problem-Solving/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Udhays07/Problem-Solving/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1063-best-sightseeing-pair](https://github.com/Udhays07/Problem-Solving/tree/master/1063-best-sightseeing-pair) |
+| [1071-binary-prefix-divisible-by-5](https://github.com/Udhays07/Problem-Solving/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1137-height-checker](https://github.com/Udhays07/Problem-Solving/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Udhays07/Problem-Solving/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Udhays07/Problem-Solving/tree/master/1256-rank-transform-of-an-array) |
@@ -501,6 +502,7 @@ Leetcode Problem Solving
 | [0342-power-of-four](https://github.com/Udhays07/Problem-Solving/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/Udhays07/Problem-Solving/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/Udhays07/Problem-Solving/tree/master/0861-flipping-an-image) |
+| [1071-binary-prefix-divisible-by-5](https://github.com/Udhays07/Problem-Solving/tree/master/1071-binary-prefix-divisible-by-5) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Udhays07/Problem-Solving/tree/master/2308-divide-array-into-equal-pairs) |
 ## Memoization
 |  |
