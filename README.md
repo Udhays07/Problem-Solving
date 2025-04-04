@@ -58,6 +58,7 @@ Leetcode Problem Solving
 | [1063-best-sightseeing-pair](https://github.com/Udhays07/Problem-Solving/tree/master/1063-best-sightseeing-pair) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Udhays07/Problem-Solving/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1137-height-checker](https://github.com/Udhays07/Problem-Solving/tree/master/1137-height-checker) |
+| [1168-duplicate-zeros](https://github.com/Udhays07/Problem-Solving/tree/master/1168-duplicate-zeros) |
 | [1217-relative-sort-array](https://github.com/Udhays07/Problem-Solving/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Udhays07/Problem-Solving/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/Udhays07/Problem-Solving/tree/master/1306-minimum-absolute-difference) |
@@ -269,6 +270,7 @@ Leetcode Problem Solving
 | [0941-sort-array-by-parity](https://github.com/Udhays07/Problem-Solving/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Udhays07/Problem-Solving/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Udhays07/Problem-Solving/tree/master/1019-squares-of-a-sorted-array) |
+| [1168-duplicate-zeros](https://github.com/Udhays07/Problem-Solving/tree/master/1168-duplicate-zeros) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Udhays07/Problem-Solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Udhays07/Problem-Solving/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Math
