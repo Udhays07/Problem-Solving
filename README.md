@@ -92,6 +92,7 @@ Leetcode Problem Solving
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Udhays07/Problem-Solving/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2102-find-the-middle-index-in-array](https://github.com/Udhays07/Problem-Solving/tree/master/2102-find-the-middle-index-in-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Udhays07/Problem-Solving/tree/master/2308-divide-array-into-equal-pairs) |
+| [2358-number-of-ways-to-split-array](https://github.com/Udhays07/Problem-Solving/tree/master/2358-number-of-ways-to-split-array) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/Udhays07/Problem-Solving/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [3582-find-indices-of-stable-mountains](https://github.com/Udhays07/Problem-Solving/tree/master/3582-find-indices-of-stable-mountains) |
 ## Stack
@@ -488,6 +489,7 @@ Leetcode Problem Solving
 | [1603-running-sum-of-1d-array](https://github.com/Udhays07/Problem-Solving/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/Udhays07/Problem-Solving/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/Udhays07/Problem-Solving/tree/master/2102-find-the-middle-index-in-array) |
+| [2358-number-of-ways-to-split-array](https://github.com/Udhays07/Problem-Solving/tree/master/2358-number-of-ways-to-split-array) |
 ## Matrix
 |  |
 | ------- |
