@@ -62,6 +62,7 @@ Leetcode Problem Solving
 | [1168-duplicate-zeros](https://github.com/Udhays07/Problem-Solving/tree/master/1168-duplicate-zeros) |
 | [1217-relative-sort-array](https://github.com/Udhays07/Problem-Solving/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Udhays07/Problem-Solving/tree/master/1256-rank-transform-of-an-array) |
+| [1287-distance-between-bus-stops](https://github.com/Udhays07/Problem-Solving/tree/master/1287-distance-between-bus-stops) |
 | [1306-minimum-absolute-difference](https://github.com/Udhays07/Problem-Solving/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/Udhays07/Problem-Solving/tree/master/1319-unique-number-of-occurrences) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Udhays07/Problem-Solving/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
