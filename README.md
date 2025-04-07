@@ -156,6 +156,7 @@ Leetcode Problem Solving
 | [0742-to-lower-case](https://github.com/Udhays07/Problem-Solving/tree/master/0742-to-lower-case) |
 | [1044-find-common-characters](https://github.com/Udhays07/Problem-Solving/tree/master/1044-find-common-characters) |
 | [1205-defanging-an-ip-address](https://github.com/Udhays07/Problem-Solving/tree/master/1205-defanging-an-ip-address) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Udhays07/Problem-Solving/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1651-shuffle-string](https://github.com/Udhays07/Problem-Solving/tree/master/1651-shuffle-string) |
 | [1764-maximum-repeating-substring](https://github.com/Udhays07/Problem-Solving/tree/master/1764-maximum-repeating-substring) |
 | [1797-goal-parser-interpretation](https://github.com/Udhays07/Problem-Solving/tree/master/1797-goal-parser-interpretation) |
@@ -521,6 +522,7 @@ Leetcode Problem Solving
 | [0645-set-mismatch](https://github.com/Udhays07/Problem-Solving/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/Udhays07/Problem-Solving/tree/master/0861-flipping-an-image) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Udhays07/Problem-Solving/tree/master/1071-binary-prefix-divisible-by-5) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Udhays07/Problem-Solving/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Udhays07/Problem-Solving/tree/master/2308-divide-array-into-equal-pairs) |
 ## Memoization
 |  |
