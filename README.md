@@ -76,6 +76,7 @@ Leetcode Problem Solving
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Udhays07/Problem-Solving/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Udhays07/Problem-Solving/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Udhays07/Problem-Solving/tree/master/1505-create-target-array-in-the-given-order) |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Udhays07/Problem-Solving/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Udhays07/Problem-Solving/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Udhays07/Problem-Solving/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/Udhays07/Problem-Solving/tree/master/1580-shuffle-the-array) |
@@ -489,6 +490,7 @@ Leetcode Problem Solving
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Udhays07/Problem-Solving/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Udhays07/Problem-Solving/tree/master/0724-find-pivot-index) |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Udhays07/Problem-Solving/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/Udhays07/Problem-Solving/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/Udhays07/Problem-Solving/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/Udhays07/Problem-Solving/tree/master/2102-find-the-middle-index-in-array) |
