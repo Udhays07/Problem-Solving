@@ -84,6 +84,7 @@ Leetcode Problem Solving
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Udhays07/Problem-Solving/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Udhays07/Problem-Solving/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1580-shuffle-the-array](https://github.com/Udhays07/Problem-Solving/tree/master/1580-shuffle-the-array) |
+| [1581-the-k-strongest-values-in-an-array](https://github.com/Udhays07/Problem-Solving/tree/master/1581-the-k-strongest-values-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Udhays07/Problem-Solving/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1603-running-sum-of-1d-array](https://github.com/Udhays07/Problem-Solving/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Udhays07/Problem-Solving/tree/master/1635-number-of-good-pairs) |
@@ -287,6 +288,7 @@ Leetcode Problem Solving
 | [1019-squares-of-a-sorted-array](https://github.com/Udhays07/Problem-Solving/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/Udhays07/Problem-Solving/tree/master/1168-duplicate-zeros) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Udhays07/Problem-Solving/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1581-the-k-strongest-values-in-an-array](https://github.com/Udhays07/Problem-Solving/tree/master/1581-the-k-strongest-values-in-an-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Udhays07/Problem-Solving/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
@@ -363,6 +365,7 @@ Leetcode Problem Solving
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Udhays07/Problem-Solving/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Udhays07/Problem-Solving/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Udhays07/Problem-Solving/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
+| [1581-the-k-strongest-values-in-an-array](https://github.com/Udhays07/Problem-Solving/tree/master/1581-the-k-strongest-values-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Udhays07/Problem-Solving/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Udhays07/Problem-Solving/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1970-sorting-the-sentence](https://github.com/Udhays07/Problem-Solving/tree/master/1970-sorting-the-sentence) |
