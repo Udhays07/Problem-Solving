@@ -68,6 +68,7 @@ Leetcode Problem Solving
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Udhays07/Problem-Solving/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1372-check-if-it-is-a-good-array](https://github.com/Udhays07/Problem-Solving/tree/master/1372-check-if-it-is-a-good-array) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Udhays07/Problem-Solving/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1386-shift-2d-grid](https://github.com/Udhays07/Problem-Solving/tree/master/1386-shift-2d-grid) |
 | [1396-count-servers-that-communicate](https://github.com/Udhays07/Problem-Solving/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Udhays07/Problem-Solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Udhays07/Problem-Solving/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -497,6 +498,7 @@ Leetcode Problem Solving
 | [0861-flipping-an-image](https://github.com/Udhays07/Problem-Solving/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Udhays07/Problem-Solving/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Udhays07/Problem-Solving/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1386-shift-2d-grid](https://github.com/Udhays07/Problem-Solving/tree/master/1386-shift-2d-grid) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Udhays07/Problem-Solving/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/Udhays07/Problem-Solving/tree/master/2048-build-array-from-permutation) |
 | [3447-clear-digits](https://github.com/Udhays07/Problem-Solving/tree/master/3447-clear-digits) |
@@ -520,6 +522,7 @@ Leetcode Problem Solving
 | [0566-reshape-the-matrix](https://github.com/Udhays07/Problem-Solving/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/Udhays07/Problem-Solving/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Udhays07/Problem-Solving/tree/master/0898-transpose-matrix) |
+| [1386-shift-2d-grid](https://github.com/Udhays07/Problem-Solving/tree/master/1386-shift-2d-grid) |
 | [1396-count-servers-that-communicate](https://github.com/Udhays07/Problem-Solving/tree/master/1396-count-servers-that-communicate) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Udhays07/Problem-Solving/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Udhays07/Problem-Solving/tree/master/1496-lucky-numbers-in-a-matrix) |
