@@ -72,6 +72,7 @@ Leetcode Problem Solving
 | [1396-count-servers-that-communicate](https://github.com/Udhays07/Problem-Solving/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Udhays07/Problem-Solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Udhays07/Problem-Solving/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Udhays07/Problem-Solving/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Udhays07/Problem-Solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Udhays07/Problem-Solving/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Udhays07/Problem-Solving/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -333,6 +334,7 @@ Leetcode Problem Solving
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Udhays07/Problem-Solving/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Udhays07/Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Udhays07/Problem-Solving/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Udhays07/Problem-Solving/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
@@ -364,6 +366,7 @@ Leetcode Problem Solving
 | [1217-relative-sort-array](https://github.com/Udhays07/Problem-Solving/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Udhays07/Problem-Solving/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/Udhays07/Problem-Solving/tree/master/1306-minimum-absolute-difference) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Udhays07/Problem-Solving/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Udhays07/Problem-Solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Udhays07/Problem-Solving/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Udhays07/Problem-Solving/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -471,6 +474,7 @@ Leetcode Problem Solving
 | [0882-peak-index-in-a-mountain-array](https://github.com/Udhays07/Problem-Solving/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0924-fair-candy-swap](https://github.com/Udhays07/Problem-Solving/tree/master/0924-fair-candy-swap) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Udhays07/Problem-Solving/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Udhays07/Problem-Solving/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Udhays07/Problem-Solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Udhays07/Problem-Solving/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/Udhays07/Problem-Solving/tree/master/1646-kth-missing-positive-number) |
@@ -524,6 +528,7 @@ Leetcode Problem Solving
 | [0898-transpose-matrix](https://github.com/Udhays07/Problem-Solving/tree/master/0898-transpose-matrix) |
 | [1386-shift-2d-grid](https://github.com/Udhays07/Problem-Solving/tree/master/1386-shift-2d-grid) |
 | [1396-count-servers-that-communicate](https://github.com/Udhays07/Problem-Solving/tree/master/1396-count-servers-that-communicate) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Udhays07/Problem-Solving/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Udhays07/Problem-Solving/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Udhays07/Problem-Solving/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Udhays07/Problem-Solving/tree/master/1677-matrix-diagonal-sum) |
