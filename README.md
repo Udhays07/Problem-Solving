@@ -72,6 +72,7 @@ Leetcode Problem Solving
 | [1396-count-servers-that-communicate](https://github.com/Udhays07/Problem-Solving/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Udhays07/Problem-Solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Udhays07/Problem-Solving/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Udhays07/Problem-Solving/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Udhays07/Problem-Solving/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Udhays07/Problem-Solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Udhays07/Problem-Solving/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -483,6 +484,7 @@ Leetcode Problem Solving
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Udhays07/Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Udhays07/Problem-Solving/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Bucket Sort
 |  |
 | ------- |
