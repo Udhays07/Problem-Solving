@@ -60,6 +60,7 @@ Leetcode Problem Solving
 | [1071-binary-prefix-divisible-by-5](https://github.com/Udhays07/Problem-Solving/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1137-height-checker](https://github.com/Udhays07/Problem-Solving/tree/master/1137-height-checker) |
 | [1168-duplicate-zeros](https://github.com/Udhays07/Problem-Solving/tree/master/1168-duplicate-zeros) |
+| [1206-corporate-flight-bookings](https://github.com/Udhays07/Problem-Solving/tree/master/1206-corporate-flight-bookings) |
 | [1217-relative-sort-array](https://github.com/Udhays07/Problem-Solving/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Udhays07/Problem-Solving/tree/master/1256-rank-transform-of-an-array) |
 | [1287-distance-between-bus-stops](https://github.com/Udhays07/Problem-Solving/tree/master/1287-distance-between-bus-stops) |
@@ -513,6 +514,7 @@ Leetcode Problem Solving
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Udhays07/Problem-Solving/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Udhays07/Problem-Solving/tree/master/0724-find-pivot-index) |
+| [1206-corporate-flight-bookings](https://github.com/Udhays07/Problem-Solving/tree/master/1206-corporate-flight-bookings) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Udhays07/Problem-Solving/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/Udhays07/Problem-Solving/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/Udhays07/Problem-Solving/tree/master/1833-find-the-highest-altitude) |
