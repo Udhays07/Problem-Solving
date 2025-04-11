@@ -62,6 +62,7 @@ Leetcode Problem Solving
 | [1168-duplicate-zeros](https://github.com/Udhays07/Problem-Solving/tree/master/1168-duplicate-zeros) |
 | [1206-corporate-flight-bookings](https://github.com/Udhays07/Problem-Solving/tree/master/1206-corporate-flight-bookings) |
 | [1217-relative-sort-array](https://github.com/Udhays07/Problem-Solving/tree/master/1217-relative-sort-array) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Udhays07/Problem-Solving/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1256-rank-transform-of-an-array](https://github.com/Udhays07/Problem-Solving/tree/master/1256-rank-transform-of-an-array) |
 | [1287-distance-between-bus-stops](https://github.com/Udhays07/Problem-Solving/tree/master/1287-distance-between-bus-stops) |
 | [1306-minimum-absolute-difference](https://github.com/Udhays07/Problem-Solving/tree/master/1306-minimum-absolute-difference) |
