@@ -61,6 +61,7 @@ Leetcode Problem Solving
 | [1137-height-checker](https://github.com/Udhays07/Problem-Solving/tree/master/1137-height-checker) |
 | [1168-duplicate-zeros](https://github.com/Udhays07/Problem-Solving/tree/master/1168-duplicate-zeros) |
 | [1206-corporate-flight-bookings](https://github.com/Udhays07/Problem-Solving/tree/master/1206-corporate-flight-bookings) |
+| [1210-mean-of-array-after-removing-some-elements](https://github.com/Udhays07/Problem-Solving/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1217-relative-sort-array](https://github.com/Udhays07/Problem-Solving/tree/master/1217-relative-sort-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Udhays07/Problem-Solving/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1256-rank-transform-of-an-array](https://github.com/Udhays07/Problem-Solving/tree/master/1256-rank-transform-of-an-array) |
@@ -366,6 +367,7 @@ Leetcode Problem Solving
 | [0958-sort-array-by-parity-ii](https://github.com/Udhays07/Problem-Solving/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Udhays07/Problem-Solving/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/Udhays07/Problem-Solving/tree/master/1137-height-checker) |
+| [1210-mean-of-array-after-removing-some-elements](https://github.com/Udhays07/Problem-Solving/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1217-relative-sort-array](https://github.com/Udhays07/Problem-Solving/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Udhays07/Problem-Solving/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/Udhays07/Problem-Solving/tree/master/1306-minimum-absolute-difference) |
