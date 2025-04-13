@@ -171,6 +171,7 @@ Leetcode Problem Solving
 | [0657-robot-return-to-origin](https://github.com/Udhays07/Problem-Solving/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/Udhays07/Problem-Solving/tree/master/0742-to-lower-case) |
 | [1044-find-common-characters](https://github.com/Udhays07/Problem-Solving/tree/master/1044-find-common-characters) |
+| [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/Udhays07/Problem-Solving/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1205-defanging-an-ip-address](https://github.com/Udhays07/Problem-Solving/tree/master/1205-defanging-an-ip-address) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Udhays07/Problem-Solving/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1651-shuffle-string](https://github.com/Udhays07/Problem-Solving/tree/master/1651-shuffle-string) |
