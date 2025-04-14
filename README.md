@@ -101,6 +101,7 @@ Leetcode Problem Solving
 | [1677-matrix-diagonal-sum](https://github.com/Udhays07/Problem-Solving/tree/master/1677-matrix-diagonal-sum) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Udhays07/Problem-Solving/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1791-richest-customer-wealth](https://github.com/Udhays07/Problem-Solving/tree/master/1791-richest-customer-wealth) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Udhays07/Problem-Solving/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1833-find-the-highest-altitude](https://github.com/Udhays07/Problem-Solving/tree/master/1833-find-the-highest-altitude) |
 | [1899-count-items-matching-a-rule](https://github.com/Udhays07/Problem-Solving/tree/master/1899-count-items-matching-a-rule) |
 | [2048-build-array-from-permutation](https://github.com/Udhays07/Problem-Solving/tree/master/2048-build-array-from-permutation) |
@@ -123,6 +124,7 @@ Leetcode Problem Solving
 | [0234-palindrome-linked-list](https://github.com/Udhays07/Problem-Solving/tree/master/0234-palindrome-linked-list) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Udhays07/Problem-Solving/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Udhays07/Problem-Solving/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Udhays07/Problem-Solving/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [3447-clear-digits](https://github.com/Udhays07/Problem-Solving/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
@@ -193,6 +195,7 @@ Leetcode Problem Solving
 | [0232-implement-queue-using-stacks](https://github.com/Udhays07/Problem-Solving/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Udhays07/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0969-number-of-recent-calls](https://github.com/Udhays07/Problem-Solving/tree/master/0969-number-of-recent-calls) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Udhays07/Problem-Solving/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Counting
 |  |
 | ------- |
@@ -513,6 +516,7 @@ Leetcode Problem Solving
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Udhays07/Problem-Solving/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1386-shift-2d-grid](https://github.com/Udhays07/Problem-Solving/tree/master/1386-shift-2d-grid) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Udhays07/Problem-Solving/tree/master/1505-create-target-array-in-the-given-order) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Udhays07/Problem-Solving/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2048-build-array-from-permutation](https://github.com/Udhays07/Problem-Solving/tree/master/2048-build-array-from-permutation) |
 | [3447-clear-digits](https://github.com/Udhays07/Problem-Solving/tree/master/3447-clear-digits) |
 ## Prefix Sum
