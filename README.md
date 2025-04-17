@@ -10,6 +10,7 @@ Leetcode Problem Solving
 | [0018-4sum](https://github.com/Udhays07/Problem-Solving/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/Udhays07/Problem-Solving/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Udhays07/Problem-Solving/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Udhays07/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Udhays07/Problem-Solving/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Udhays07/Problem-Solving/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Udhays07/Problem-Solving/tree/master/0056-merge-intervals) |
@@ -136,6 +137,7 @@ Leetcode Problem Solving
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Udhays07/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Udhays07/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Udhays07/Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Udhays07/Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
@@ -167,6 +169,7 @@ Leetcode Problem Solving
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Udhays07/Problem-Solving/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/Udhays07/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Udhays07/Problem-Solving/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Udhays07/Problem-Solving/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Udhays07/Problem-Solving/tree/master/0345-reverse-vowels-of-a-string) |
@@ -359,6 +362,7 @@ Leetcode Problem Solving
 | ------- |
 | [0016-3sum-closest](https://github.com/Udhays07/Problem-Solving/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Udhays07/Problem-Solving/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Udhays07/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Udhays07/Problem-Solving/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Udhays07/Problem-Solving/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Udhays07/Problem-Solving/tree/master/0088-merge-sorted-array) |
