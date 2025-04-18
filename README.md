@@ -58,6 +58,7 @@ Leetcode Problem Solving
 | [1044-find-common-characters](https://github.com/Udhays07/Problem-Solving/tree/master/1044-find-common-characters) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Udhays07/Problem-Solving/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Udhays07/Problem-Solving/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Udhays07/Problem-Solving/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1063-best-sightseeing-pair](https://github.com/Udhays07/Problem-Solving/tree/master/1063-best-sightseeing-pair) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Udhays07/Problem-Solving/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1137-height-checker](https://github.com/Udhays07/Problem-Solving/tree/master/1137-height-checker) |
@@ -227,6 +228,7 @@ Leetcode Problem Solving
 | ------- |
 | [0055-jump-game](https://github.com/Udhays07/Problem-Solving/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Udhays07/Problem-Solving/tree/master/0134-gas-station) |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Udhays07/Problem-Solving/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Udhays07/Problem-Solving/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Udhays07/Problem-Solving/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 ## Linked List
