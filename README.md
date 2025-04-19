@@ -326,6 +326,7 @@ Leetcode Problem Solving
 | [0070-climbing-stairs](https://github.com/Udhays07/Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Udhays07/Problem-Solving/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Udhays07/Problem-Solving/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Udhays07/Problem-Solving/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/Udhays07/Problem-Solving/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Udhays07/Problem-Solving/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Udhays07/Problem-Solving/tree/master/0441-arranging-coins) |
@@ -520,6 +521,7 @@ Leetcode Problem Solving
 | [0043-multiply-strings](https://github.com/Udhays07/Problem-Solving/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Udhays07/Problem-Solving/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Udhays07/Problem-Solving/tree/master/0059-spiral-matrix-ii) |
+| [0258-add-digits](https://github.com/Udhays07/Problem-Solving/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/Udhays07/Problem-Solving/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/Udhays07/Problem-Solving/tree/master/0657-robot-return-to-origin) |
 | [0861-flipping-an-image](https://github.com/Udhays07/Problem-Solving/tree/master/0861-flipping-an-image) |
@@ -600,6 +602,7 @@ Leetcode Problem Solving
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Udhays07/Problem-Solving/tree/master/0258-add-digits) |
 | [1372-check-if-it-is-a-good-array](https://github.com/Udhays07/Problem-Solving/tree/master/1372-check-if-it-is-a-good-array) |
 ## Counting Sort
 |  |
