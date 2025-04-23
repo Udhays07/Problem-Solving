@@ -267,6 +267,7 @@ Leetcode Problem Solving
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Udhays07/Problem-Solving/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Udhays07/Problem-Solving/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Udhays07/Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Udhays07/Problem-Solving/tree/master/0118-pascals-triangle) |
 | [1063-best-sightseeing-pair](https://github.com/Udhays07/Problem-Solving/tree/master/1063-best-sightseeing-pair) |
@@ -325,6 +326,7 @@ Leetcode Problem Solving
 | [0043-multiply-strings](https://github.com/Udhays07/Problem-Solving/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Udhays07/Problem-Solving/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Udhays07/Problem-Solving/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Udhays07/Problem-Solving/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Udhays07/Problem-Solving/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Udhays07/Problem-Solving/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Udhays07/Problem-Solving/tree/master/0070-climbing-stairs) |
@@ -625,4 +627,8 @@ Leetcode Problem Solving
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/Udhays07/Problem-Solving/tree/master/1396-count-servers-that-communicate) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Udhays07/Problem-Solving/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
