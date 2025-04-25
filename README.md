@@ -67,6 +67,7 @@ Leetcode Problem Solving
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Udhays07/Problem-Solving/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1217-relative-sort-array](https://github.com/Udhays07/Problem-Solving/tree/master/1217-relative-sort-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Udhays07/Problem-Solving/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1241-decompress-run-length-encoded-list](https://github.com/Udhays07/Problem-Solving/tree/master/1241-decompress-run-length-encoded-list) |
 | [1256-rank-transform-of-an-array](https://github.com/Udhays07/Problem-Solving/tree/master/1256-rank-transform-of-an-array) |
 | [1287-distance-between-bus-stops](https://github.com/Udhays07/Problem-Solving/tree/master/1287-distance-between-bus-stops) |
 | [1293-three-consecutive-odds](https://github.com/Udhays07/Problem-Solving/tree/master/1293-three-consecutive-odds) |
